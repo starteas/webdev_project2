@@ -11,7 +11,7 @@ h1, h2{
 }
 
 /*Style 3*/
-#crochet{
+img{
     border: 5px solid hotpink;
 }
 
@@ -29,7 +29,7 @@ h1, h2{
 }
 
 /*Style 6*/
-p{
+p, li{
   font-family: 'Courier New', monospace;
 }
 

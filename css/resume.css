@@ -5,14 +5,12 @@ body {
 /*Style 2*/
 h1 {
   font-size: 3em;
-  font-family: 'Times New Roman', serif;
   color: #000000;
   text-align: center;
 }
 /*Style 3*/
 h3 {
   font-size: 1.5em;
-  font-family: 'Times New Roman', serif;
   color: #000000;
   text-decoration: underline;
 }
@@ -28,7 +26,7 @@ h3 {
 #summary {
   text-align: center;
   border: 0.125rem solid black;
-  padding: 10px;
+  padding: 2rem;
 }
 /*Style 6*/
 #name {
