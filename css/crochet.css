@@ -1,12 +1,13 @@
 /*Style 1*/
 body {
-  font-family: 'Courier New', monospace;
+  background-color: rgb(255, 224, 229);
 }
 
 /*Style 2*/
 h1, h2{
   text-align: center;
   text-decoration:wavy underline;
+  font-family: 'Garamond', sans-serif;
 }
 
 /*Style 3*/
@@ -25,6 +26,11 @@ h1, h2{
 #love-crochet{
   text-align: center;
   font-style: italic;
+}
+
+/*Style 6*/
+p{
+  font-family: 'Courier New', monospace;
 }
 
 /*Navigation*/
