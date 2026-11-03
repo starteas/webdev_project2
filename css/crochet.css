@@ -1,17 +1,37 @@
+/*Style 1*/
 body {
   font-family: 'Courier New', monospace;
 }
 
+/*Style 2*/
+h1, h2{
+  text-align: center;
+  text-decoration:wavy underline;
+}
+
+/*Style 3*/
 #crochet{
     border: 5px solid hotpink;
 }
 
+/*Style 4*/
+#mystery-pattern{
+  border: 2px solid lightpink;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+/*Style 5*/
+#love-crochet{
+  text-align: center;
+  font-style: italic;
+}
+
+/*Navigation*/
 #main-nav {
   float: left;
   width: 100%;
   background-color: hotpink;
-
-
 }
 
 #main-nav ul {
